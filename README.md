@@ -1,6 +1,6 @@
 [![Platform](https://img.shields.io/badge/PLATFORM-flutter-blue)](https://flutter.dev/) [![Language](https://img.shields.io/badge/LANGUAGE-dart-blue)](https://dart.dev/)
 
-<a href=https://github.com/Share-Invest/ant><img height=384 src=https://user-images.githubusercontent.com/48705422/232752291-c2b0e0c1-d374-44fc-9275-cc005fabea28.jpg></a> <a href=https://github.com/Share-Invest><img height=384 src=https://user-images.githubusercontent.com/48705422/232753150-86d8f845-23f2-43b6-baa4-8243695f302d.jpg></a>
+<a href=https://github.com/Share-Invest/ant><img height=384 src=https://user-images.githubusercontent.com/48705422/232752291-c2b0e0c1-d374-44fc-9275-cc005fabea28.jpg></a> <a href=https://github.com/Share-Invest><img height=384 src=https://user-images.githubusercontent.com/48705422/232767369-144da406-e101-4bdf-bea2-da2c58339375.jpg></a>
 
 [![ant](https://github.com/Share-Invest/ant/actions/workflows/ant.yml/badge.svg?event=push)](https://github.com/Share-Invest/ant/actions/workflows/ant.yml)
 
