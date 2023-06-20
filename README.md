@@ -1,5 +1,14 @@
 # <a href=https://github.com/Share-Invest/securities-modules><img height=32 src=https://user-images.githubusercontent.com/48705422/244874765-84542955-0cb8-4961-a546-388c7f391e61.png></a> 동학개미운동 supports [![OS](https://img.shields.io/badge/Windows-0078D6?style=plastic&logoColor=white&logo=windows)](https://www.microsoft.com/en-us/windows) [![OS](https://img.shields.io/badge/Linux-FCC624?style=plastic&logoColor=white&logo=linux)](https://ubuntu.com) [![OS](https://img.shields.io/badge/ios-000000?style=flat&logoColor=white)](https://developer.apple.com) [![OS](https://img.shields.io/badge/android-3DDC84?style=plastic&logo=android&logoColor=white)](https://developer.android.com).
-### · How to initailize in WPF
+### · How to initailize in [![Platform](https://img.shields.io/nuget/v/Microsoft.NETCore.Platforms?label=CSharp&style=plastic&logo=.NET&color=512BD4)](https://versionsof.net) [![IDE](https://img.shields.io/badge/Visual%20Studio-2022-5C2D91?style=plastic&logoColor=white&logo=visualstudio)](https://learn.microsoft.com/en-us/visualstudio/releases/2022)
+```C#
+using (var api = new OpenDart("YOUR_OPEN_DART_API_KEY"))
+{
+    var response = await api.GetCorpCodeAsync();
+
+    ...
+}
+```
+# [![NuGet](https://img.shields.io/nuget/v/ShareInvest.OpenDart.API?label=ShareInvest.OpenDart.API&style=plastic&logo=nuget&color=004880)](https://www.nuget.org/packages/ShareInvest.OPENDART.API) makes API convenient for [![OS](https://img.shields.io/badge/Windows-0078D6?style=plastic&logoColor=white&logo=windows)](https://www.microsoft.com/en-us/windows) [![OS](https://img.shields.io/badge/Linux-FCC624?style=plastic&logoColor=white&logo=linux)](https://ubuntu.com).
 ```C#
 public partial class Test : Window
 {
