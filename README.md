@@ -45,11 +45,12 @@ public partial class Test : Window
 <img
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api?username=cyberprophet&show_icons=true&count_private=true&theme=tokyonight"
+    width="450"
     height="200"
-    /> 
-<img
+    /> <img
     alt="Top Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberprophet&layout=compact&langs_count=8&theme=tokyonight&card_width=420"
+    width="450"
     height="200"
     />
 </p>
