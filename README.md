@@ -40,3 +40,18 @@ public partial class Test : Window
 ### · Desktop launcher is [![.NET LAUNCHER](https://github.com/Share-Invest/Algorithmic-Trading-Launcher/actions/workflows/windows-launcher.yml/badge.svg)](https://github.com/Share-Invest/Algorithmic-Trading-Launcher/actions/workflows/windows-launcher.yml).
 ### · Desktop package is [![.NET PACKAGE](https://github.com/Share-Invest/Algorithmic-Trading-Package/actions/workflows/package-desktop.yml/badge.svg?event=push)](https://github.com/Share-Invest/Algorithmic-Trading-Package/actions/workflows/package-desktop.yml).
 ### · IDE using [![IDE](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=plastic&logoColor=white&logo=visualstudio)](https://visualstudio.microsoft.com) and [![IDE](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logoColor=white&logo=visualstudiocode)](https://code.visualstudio.com)
+
+<p align="center">
+<img
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=cyberprophet&show_icons=true&count_private=true&theme=tokyonight"
+    width="503"
+    height="200"
+    />
+<img
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberprophet&layout=compact&langs_count=8&theme=tokyonight&card_width=420"
+    width="503"
+    height="200"
+    />
+</p>
